@@ -1,1 +1,1 @@
-# Project-new
+# This project is for the code in article "Detection and Location of Aged Cable Segment in Underground Power Distribution System Using Deep Learning Approach", published on IEEE Transactions on Industrial Informatics. For detailed code, please contact the authors by mewuyang@126.com. Thanks.
